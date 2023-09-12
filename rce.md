@@ -1,6 +1,7 @@
 ForU CMS install.php command execution vulnerability
 
 downlaod:https://gitee.com/sw1981/ForU-CMS
+
 version:dev Official version
 
 There is a logical defect in writing files to data.php before performing database judgment
